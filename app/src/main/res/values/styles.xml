@@ -1,0 +1,46 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+
+    <style name="ButtonTheme" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/button</item>
+        <item name="android:textColor">@color/text</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
+    <style name="Button_menu" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/button</item>
+        <item name="android:textColor">@color/text</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
+    <style name="Background" >
+        <item name="android:background">@color/background</item>
+    </style>
+
+    <style name="name_page" parent="@android:style/Widget.Button">
+
+        <item name="android:textColor">@color/name_page</item>
+        <item name="android:textSize">55sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@android:color/transparent</item>
+
+    </style>
+
+    <style name="text_content_page" parent="@android:style/Widget.Button">
+
+        <item name="android:textColor">@color/White</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@color/background</item>
+        <item name="android:gravity">left</item>
+
+    </style>
+
+</resources>

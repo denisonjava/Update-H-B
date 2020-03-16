@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="send_variants">
+        <item>Отправить SMS</item>
+        <item>Отправить E-mail</item>
+    </string-array>
+
+    <string-array name="item_select_variants">
+        <item>Записаться по телефону</item>
+        <item>Записаться по SMS</item>
+        <item>Записаться по E-Mail</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button_focused_color_start">#7ad3fb</color>
+    <color name="button_focused_color_end">#ff168fff</color>
+    <color name="button_normal_color_start">#33a3ea</color>
+    <color name="button_normal_color_end">#0168c7</color>
+    <color name="button_pressed_color_start">#FFFFFF</color>
+    <color name="button_pressed_color_end">#79C83F</color>
+    <color name="White">#FFFFFF</color>
+    <color name="background">#33a3ea</color>
+    <color name="text">#ffffff</color>
+    <color name="name_page">#f91cf9</color>
+    <color name="listview_divider">#ffffff</color>
+
+</resources>

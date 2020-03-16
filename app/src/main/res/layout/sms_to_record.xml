@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent" style="@style/Background"
+    android:weightSum="1">
+
+    <TextView
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/title_sms_to_record"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        style="@style/name_page"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView12"
+        android:layout_weight="0.07" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView13"
+        android:layout_weight="0.07"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        android:background="@android:color/white"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp"
+        android:gravity="center"
+        />
+
+    <EditText android:id="@+id/message_sms"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:cursorVisible="true"
+        android:hint="Введите фамилию и имя"
+        android:textColor="@android:color/black"
+        android:background="@android:color/white"
+        android:layout_weight="0.07"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        />
+
+    <Button
+        style="@style/ButtonTheme"
+        android:id="@+id/sms"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Отправить"
+        android:onClick="smsSendRecord"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        />
+
+</LinearLayout>

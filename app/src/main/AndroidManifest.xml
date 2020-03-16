@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.denis.uhb">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+
+    <application
+
+            tools:node="replace"
+            android:allowBackup="true"
+            android:icon="@mipmap/ic_launcher"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".BoostUp"
+            android:label="@string/title_activity_boostup" >
+        </activity>
+        <activity
+            android:name=".Sugaring"
+            android:label="@string/title_activity_sugaring" >
+        </activity>
+        <activity
+            android:name=".Contacts"
+            android:label="@string/title_activity_contacts" >
+        </activity>
+        <activity
+            android:name=".Barber"
+            android:label="@string/title_activity_barber" >
+        </activity>
+        <activity
+            android:name=".Price"
+            android:label="@string/title_activity_price" >
+        </activity>
+        <activity
+            android:name=".About"
+            android:label="@string/title_activity_about" >
+        </activity>
+        <activity
+            android:name=".Feedback"
+            android:label="@string/title_activity_feedback" >
+        </activity>
+        <activity
+            android:name=".Sms"
+            android:label="@string/title_activity_sms" >
+        </activity>
+        <activity
+            android:name=".SmsToRecord"
+            android:label="@string/title_activity_sms_to_record" >
+        </activity>
+
+        <activity
+            android:name=".EmailToRecord"
+            android:label="@string/title_activity_email_to_record" >
+        </activity>
+
+        <activity
+            android:name=".Email"
+            android:label="@string/title_activity_email" >
+        </activity>
+        <activity
+            android:name=".Loading"
+            android:label="@string/title_activity_loading" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    </application>
+</manifest>

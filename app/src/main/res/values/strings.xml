@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Update Hair &amp; Body</string>
+    <string name="action_main">Главное меню</string>
+    <string name="action_about">О программе</string>
+    <string name="action_feedback">Обратная связь</string>
+    <string name="action_back">Вернуться в главное меню</string>
+    <string name="title_activity_boostup">Буст Ап</string>
+    <string name="title_activity_sugaring">Шугаринг</string>
+    <string name="title_activity_contacts">Контакты</string>
+    <string name="title_activity_price">Прайс</string>
+    <string name="title_activity_about">О программе</string>
+    <string name="About">Данное приложение описывает список сервисов и услуг, предоставляемых в нашем салоне красоты.\n\nРазработано - Куликов Денис\n2016 г.\n\nСсылка на страницу разработчика:</string>
+    <string name="Sugaring">Шугаринг</string>
+    <string name="Contacts">Мастер Дарья</string>
+    <string name="Adress">Champ de Mars, 5 Avenue Anatole France, 75007 Paris, Франция</string>
+    <string name="title_activity_loading">Update Hair &amp; Body</string>
+    <string name="boost_up">Это метод, благодаря которому можно придать объем любым волосам.
+        Данный метод был разработан российским стилистом Еленой Глинкой (Санкт-Петербург).
+        Она довольно просто и элегантно решила проблему отсутствия объема волос.
+        По сути, это прикорневая био-завивка, которая затрагивает не все волосы.
+        Часть волос на макушке остается неизменной, впоследствии прикрывая обработанные локоны, что создает видимость естественного объема.
+        Остальные локоны подвергаются мелкой завивке - «гофре», которая и обеспечивает нужный объем.
+        В результате нижние, завитые локоны приподнимают верхние. Все просто, но эффективно.
+        И эффектно - на вашу прическу после процедуры Boost Up будут обращать внимание все.
+        Эффект от программы Boost Up сохраняется на 4-6 месяцев.
+        Объем сохраняется, даже если вы попали под дождь, а укладка держится намного дольше.
+        Но это не все.
+        Данная процедура – отличное решение для жирных волос. Благодаря «приподнятости» волосы меньше контактируют с кожей головы, а значит, меньше загрязняются кожным жиром.
+        Те, кто был вынужден мыть голову через день, после программы Boost Up могут мыть голову в три раза реже.</string>
+    <string name="sugaring">Шугаринг (от англ. sugar — сахар) — это способ эпиляции, выполняемый с помощью густой сахарной пасты.
+        На обрабатываемый участок кожи наносится натуральная карамель и удаляется.
+        Сахарная эпиляция одна из древних косметологических процедур, родиной шугаринга считается Древний Египет.
+        В Древней Персии шугаринг был достаточно популярен так как иметь на теле волосы считалось неприлично.
+        Поэтому одно из названий процедуры — персидская эпиляция.
+        В современном мире эпиляция стала достаточно популярной процедурой с середины 80-х годов прошлого века.
+        Кусочек пасты разминают пальцами до нужной консистенции и раскатывают на натянутом участке кожи, предварительно обработанном тальком, затем резким движением срывают.
+        Важной особенностью шугаринга является то, что паста наносится только против роста волос, а срывается — по росту, в отличие от восковой эпиляции, что способно минимизировать последующее вырастание волос.
+    </string>
+    <string name="boost_up_menu">Буст Ап</string>
+    <string name="contacts_menu">Контакты</string>
+    <string name="barber_menu">Парикмахерская</string>
+    <string name="price_menu">Прайс</string>
+    <string name="sugaring_menu">Шугаринг</string>
+    <string name="title_activity_feedback">Обратная связь</string>
+    <string name="feedback">Вы можете отправить отзыв по SMS или E-mail</string>
+    <string name="feedback_send">Отправить отзыв</string>
+    <string name="button_call">Позвонить мастеру</string>
+    <string name="contacts">Контакты</string>
+    <string name="button_map">Открыть адрес на карте</string>
+    <string name="title_sms">Отзыв по SMS</string>
+    <string name="title_sms_to_record">Запись по SMS</string>
+    <string name="title_email_to_record">Запись по E-mail</string>
+    <string name="title_email">Отзыв по E-mail</string>
+    <string name="title_activity_sms">Отправить отзыв по СМС</string>
+    <string name="title_activity_sms_to_record">Запись по SMS</string>
+    <string name="title_activity_email_to_record">Запись по SMS</string>
+    <string name="dialog">Выберите вариант отправки:</string>
+    <string name="dialog_to_record">Выберите вариант записи:</string>
+    <string name="cancel">Отмена</string>
+    <string name="title_activity_email">Отправит отзыв по E-mail</string>
+    <string name="button_price">Цена на процедуру</string>
+    <string name="button_price_barber">Цены на процедуры</string>
+    <string name="button_to_call">Контакты мастера</string>
+    <string name="title_activity_barber">Парикмахерская</string>
+    <string name="call_number">+79215547702</string>
+    <string name="barber">Предлагаем Вам воспользоваться нашими парикмахерскими услугами.\nОпытные мастера салона «Update Hair &amp; Body» выполняют:\n
+        -Окрашивание волос (в том числе, мелирование, колорирование, блондирование);\n
+        -Химическую завивку волос;\n
+        -Выпрямление волос;\n
+        -Ламинирование волос;\n
+        -Стрижка классическая\n
+        -Стрижка креативная\n
+        -Долговременную укладку волос;\n
+        -Прически и укладки для особых случаев (праздничные, свадебные, вечерние прически);\n
+        -Процедуры по уходу за волосами (лечение волос, массаж головы и др.).</string>
+
+</resources>
